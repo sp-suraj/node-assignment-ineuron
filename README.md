@@ -1,13 +1,12 @@
 # Introduction
 
+This is NodeJS CRUD app using MongoDB as database. Book items can be created/Read/Updated & Deleted. It has swagger as API Documentation. After setup see here how to use [swagger UI](http://localhost:4001/api-docs/#/)
+
 ##### It contains:-
 
 1. How to setup
 2. What is used
 3. Folder Structure
-4. API Details
-<!--
-**For APIs used in this assignment. To know how it works, Please refer this** **[Postman API Documentation](https://documenter.getpostman.com/view/24246143/2s93CHvFjM)** -->
 
 ## How To Setup
 
@@ -28,7 +27,7 @@ nodemon
 4. To run test
 
 ```
-npm start test
+npm run test
 ```
 
 5. To run jest:coverage test
