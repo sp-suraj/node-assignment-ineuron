@@ -57,4 +57,4 @@ npm run test:coverage
 > _repository file_ manages database actions
 > _service file_ takes action from routes, accessing repository returns response to routes
 
-1. [**_item_**](src/items/) folder contains [tests folder](src/items/__tests__), [item Model file](src/items/item.model.js), [item Repository file](src/items/item.repository.js) and [item Service file](src/items/item.service.js)
+1. [**_item_**](src/items/) folder contains [tests folder](src/items/__tests__), [item Model file](src/items/item.model.ts), [item Repository file](src/items/item.repository.ts) and [item Service file](src/items/item.service.ts)
